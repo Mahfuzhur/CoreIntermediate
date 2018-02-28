@@ -1,0 +1,12 @@
+E:\WebUsingCore\CoreIntermediate\MyMva\MyMva\bin\Debug\netcoreapp2.0\MyMva.deps.json
+E:\WebUsingCore\CoreIntermediate\MyMva\MyMva\bin\Debug\netcoreapp2.0\MyMva.runtimeconfig.json
+E:\WebUsingCore\CoreIntermediate\MyMva\MyMva\bin\Debug\netcoreapp2.0\MyMva.runtimeconfig.dev.json
+E:\WebUsingCore\CoreIntermediate\MyMva\MyMva\bin\Debug\netcoreapp2.0\MyMva.dll
+E:\WebUsingCore\CoreIntermediate\MyMva\MyMva\bin\Debug\netcoreapp2.0\MyMva.pdb
+E:\WebUsingCore\CoreIntermediate\MyMva\MyMva\obj\Debug\netcoreapp2.0\MyMva.csprojResolveAssemblyReference.cache
+E:\WebUsingCore\CoreIntermediate\MyMva\MyMva\obj\Debug\netcoreapp2.0\MyMva.csproj.CoreCompileInputs.cache
+E:\WebUsingCore\CoreIntermediate\MyMva\MyMva\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\WebUsingCore\CoreIntermediate\MyMva\MyMva\obj\Debug\netcoreapp2.0\MyMva.AssemblyInfoInputs.cache
+E:\WebUsingCore\CoreIntermediate\MyMva\MyMva\obj\Debug\netcoreapp2.0\MyMva.AssemblyInfo.cs
+E:\WebUsingCore\CoreIntermediate\MyMva\MyMva\obj\Debug\netcoreapp2.0\MyMva.dll
+E:\WebUsingCore\CoreIntermediate\MyMva\MyMva\obj\Debug\netcoreapp2.0\MyMva.pdb
